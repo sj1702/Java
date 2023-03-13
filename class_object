@@ -1,0 +1,13 @@
+Classes and objects are the two main aspects of object-oriented programming.
+
+example 
+   class is fruit, so objects will be Apple, Banana, fig, kiwi, Mango etc
+   class is car, so objects will be Maruti, Audi, Toyota, BMW, Nissan etc
+   
+So, a class is a template for objects, and an object is an instance of a class.
+When the individual objects are created, they inherit all the variables and methods from the class.
+
+Everything in Java is associated with classes and objects, along with its attributes and methods. 
+For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.
+
+To create a class, use the keyword class
